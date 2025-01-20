@@ -8,6 +8,9 @@
   ````
   npm install vite
   npm create vite@lastest
+  cd project-name
+  npm install
+  npm run dev
   ````
   * or you can use simple react install:
   ````
